@@ -96,7 +96,8 @@ void setGame() {
 }
 
 void setup() {
-	size(27 * pix, 30 * pix);
+	//size(27 * pix, 30 * pix);
+  size(670, 750);
 	ellipseMode(RADIUS);
 	smooth();
 	
